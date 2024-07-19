@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saptarshi Chakraborty</h1>
 <h3 align="center">Data whisperer, solving problems with algorithms and analysis.</h3>
-<(img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgWdSGbIChUkoTMYhNGa4yeL9YFmpMwhBEw&s">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgWdSGbIChUkoTMYhNGa4yeL9YFmpMwhBEw&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptarshi-iitbhu&label=Profile%20views&color=0e75b6&style=flat" alt="saptarshi-iitbhu" /> </p>
 
