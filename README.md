@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQF8EkGVvIZiQQ/profile-displaybackgroundimage-shrink_350_1400/0/1719040952353?e=1726704000&v=beta&t=LfL9AdzSXNXsN-1f8N-cfghERvko9WKcYEIKM48hH-I)
 <h1 align="center">Hi 👋, I'm Saptarshi Chakraborty</h1>
 <h3 align="center">Data whisperer, solving problems with algorithms and analysis.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgWdSGbIChUkoTMYhNGa4yeL9YFmpMwhBEw&s">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1f782b04dd583ad18342044b5bcd3af684d7e3a58fc3013a35dbc072c7e17a0f/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3365656530625f38623637383063366264383234356563616664626535356438646237653264667e6d76322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptarshi-iitbhu&label=Profile%20views&color=0e75b6&style=flat" alt="saptarshi-iitbhu" /> </p>
 
