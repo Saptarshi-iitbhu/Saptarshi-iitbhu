@@ -1,3 +1,4 @@
+![MasterHead](https://media.licdn.com/dms/image/D5616AQF8EkGVvIZiQQ/profile-displaybackgroundimage-shrink_350_1400/0/1719040952353?e=1726704000&v=beta&t=LfL9AdzSXNXsN-1f8N-cfghERvko9WKcYEIKM48hH-I)
 <h1 align="center">Hi 👋, I'm Saptarshi Chakraborty</h1>
 <h3 align="center">Data whisperer, solving problems with algorithms and analysis.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgWdSGbIChUkoTMYhNGa4yeL9YFmpMwhBEw&s">
