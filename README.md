@@ -8,13 +8,13 @@
 ## 🚀 About Me
 - 🎓 Final-year IDD student in Ceramic Engineering @ IIT BHU  
 - 💡 Passionate about **Data Science, Machine Learning & Deep Learning**  
-- 🧠 Solved **1500+ DSA problems** and improving competitive programming skills  
+- 🧠 Solved **1500+ DSA problems** and improving competitive programming skills 
 - 🤖 Built projects using **CNN, Transformers, BERT, SpaCy NER, MERN stack**  
 - 📚 Focused on ML + Full Stack + Competitive Programming  
 - 🏋️ Fitness lover — working on getting shredded 💪
 - 👨‍💻 All of my projects are available at [Portfolio](https://sapcoder.vercel.app/)
 - 📫 How to reach me <a href="mailto:saptarshichakraborty783@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/></a>
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1v4tApUaur26EZvSCpFnbyf76OIgIWpNR/view)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1ybzmO95PzlZOJ8D_B-GvZa1PvpdyoTMe/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
