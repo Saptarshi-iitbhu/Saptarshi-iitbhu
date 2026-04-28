@@ -12,15 +12,18 @@
 - 🤖 Built projects using **CNN, Transformers, BERT, SpaCy NER, MERN stack**  
 - 📚 Focused on ML + Full Stack + Competitive Programming  
 - 🏋️ Fitness lover — working on getting shredded 💪
-- 👨‍💻 All of my projects are available at [Portfolio](https://sapcoder.vercel.app/)
 - 📫 How to reach me <a href="mailto:saptarshichakraborty783@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/></a>
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1ccIxGr2vIteLAjNsBxynmZ6ee77nSsC_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saptarshi-chakraborty-91a966231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saptarshi-chakraborty-91a966231/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tl_destroyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/tl_destroyer" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/itz_saptarshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/itz_saptarshi/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/saptarshi-chakraborty-91a966231/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a><a href="https://codeforces.com/profile/tl_destroyer" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
+  </a><a href="https://leetcode.com/u/itz_saptarshi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
 </p>
 
 ## 🛠️ Languages & Tools
