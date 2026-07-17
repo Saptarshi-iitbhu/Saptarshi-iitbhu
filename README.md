@@ -50,14 +50,14 @@
 
 ### 🧰 Skills
 
-**Languages:** Java, C++, Python, JavaScript, SQL
-**Backend:** Spring Boot (Security, Data JPA), Node.js, Express.js, FastAPI, REST APIs, Microservices
-**Frontend:** React.js, HTML5, CSS3, Client-Side Routing, State Management
-**Cloud & DevOps:** AWS (EC2/EKS/RDS), Docker, Kubernetes, GitHub Actions, Prometheus, ELK Stack
-**Databases:** PostgreSQL, pgvector, MySQL, MongoDB, Redis, Elasticsearch
-**AI/ML & GenAI:** LangChain, RAG Pipelines, OpenAI API, HuggingFace, GPT-3.5-turbo, Vector Search
-**Testing & Tools:** JUnit5, Mockito, TDD, Integration Testing, Git, Postman, Linux
-**Core CS:** Data Structures & Algorithms, OOP, System Design, Operating Systems, DBMS, Computer Networks
+- **Languages:** Java, C++, Python, JavaScript, SQL
+- **Backend:** Spring Boot (Security, Data JPA), Node.js, Express.js, FastAPI, REST APIs, Microservices
+- **Frontend:** React.js, HTML5, CSS3, Client-Side Routing, State Management
+- **Cloud & DevOps:** AWS (EC2/EKS/RDS), Docker, Kubernetes, GitHub Actions, Prometheus, ELK Stack
+- **Databases:** PostgreSQL, pgvector, MySQL, MongoDB, Redis, Elasticsearch
+- **AI/ML & GenAI:** LangChain, RAG Pipelines, OpenAI API, HuggingFace, GPT-3.5-turbo, Vector Search
+- **Testing & Tools:** JUnit5, Mockito, TDD, Integration Testing, Git, Postman, Linux
+- **Core CS:** Data Structures & Algorithms, OOP, System Design, Operating Systems, DBMS, Computer Networks
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,spring,nodejs,express,fastapi,react,aws,docker,kubernetes,postgres,mongodb,redis,git,github&perline=9" />
