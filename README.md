@@ -60,7 +60,7 @@
 - **Core CS:** Data Structures & Algorithms, OOP, System Design, Operating Systems, DBMS, Computer Networks
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,spring,nodejs,express,fastapi,react,aws,docker,kubernetes,postgres,mongodb,redis,git,github&perline=9" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css,spring,nodejs,express,fastapi,react,aws,docker,kubernetes,githubactions,postgres,mysql,mongodb,redis,elasticsearch,git,github,linux,postman,prometheus&perline=9" />>
 </p>
 
 ---
